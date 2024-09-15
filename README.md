@@ -1,6 +1,7 @@
 # TextWizard
 TextWizard
 
+An AI application written in Golang based on chatgpt-4o-mini
 
 
 ```shell
